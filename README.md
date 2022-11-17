@@ -11,10 +11,11 @@ Ranking algorithm using a multi-criteria decision-solving technique.
 </span></h4> 
 
 
-
+## Python libraries:
 ### Scikit-Criteria: a collection of Multiple-criteria decision analysis (MCDA)
 
 ### Dash: is the most downloaded, trusted Python framework for building ML & data science web apps.
+
 ### Plotly: is an interactive, open-source, and browser-based graphing library for Python ✨
 
 
